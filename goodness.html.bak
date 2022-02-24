@@ -1,0 +1,67 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<header>
+
+</header>
+<main>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a></li>
+  <li><a href="">Photos</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<h2>Goodness</h2>
+<h4>
+A little whisper from goodness; goodness that doesn’t come often, a small sense of being alive, not just breathing but also living.<br>
+
+Something happy will bloom from the inside but you might not know why or how. Happiness that wouldn’t last long but you would enjoy it while you have it.<br>
+
+Something you haven’t expected will happen, you wouldn’t want to be happy because you haven’t felt contentment in a long time. You have forgotten what it feels like to be at ease with yourself but the goodness will be stronger than the evil, it wont let you harm yourself.<br>
+
+Part of you would worry, part of you would question your happiness, your existence, but you would ignore all the demons inside. You will laugh for as long as you would like, for as long as you don’t face the reality and for as long as you don’t see the mirror.<br>
+</h4>
+</main>
+<footer>
+
+</footer>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

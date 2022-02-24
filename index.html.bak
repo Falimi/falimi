@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<html>
+	<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+	<title>Soma</title>
+	<link rel=stylesheet href="style.css"/>
+	</head>
+	<body id="about">
+	<div id="container">
+	<header>
+	<nav>
+		<ul>
+		  <li><a href="index.html">Home</a></li>
+		  <li><a href="writing.html">Writing</a></li>
+		  <li><a href="about.html">About</a></li>
+		  <li><a href="contact.html">Contact</a></li>
+	</ul>
+	</nav>
+	</header>
+	<main>
+	<div class="cover-image">
+	<h1>Soma</h1>
+	<p>Not all those who wander are lost - J.R.R Tolkien</p>
+	</div>
+	</main>
+	
+	<footer>
+	
+	</footer>
+	</div>
+<html>

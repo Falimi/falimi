@@ -1,0 +1,207 @@
+.cover-image {
+background-image: url("maybe.jpg");
+background-size: cover; 
+padding: 250px 0px;
+}
+footer {
+  text-align: center;
+  padding: 10px 80px;
+  background-color: #333;
+  color: #333;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 135px;
+  text-decoration: none;
+  Margin: 4px;
+}
+li a:hover {
+  background-color: #111;
+}
+body {
+background-color: #2a3342;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+title {
+	color:white;
+	}
+h1 {
+	font-size: 24px;
+	color: black;
+	text-align: center;
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	top: 50px;
+	}
+h2 {
+	text-align: center;
+	position: relative;
+	top: 20px;
+}
+h4 {
+	font-size: 16px;
+	text-align: center;
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	top: 60px;
+	line-height: 2;
+}
+h5 {
+	font-size: 16px;
+	text-align: center; 
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	bottom:390px;
+	left:150px;
+	line-height: 2;
+}
+h3 {
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	}
+p {
+	color: black;
+	text-align: center; 
+	font-size: 20px;
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	position: relative; 
+    top: 60px;
+} 
+	}
+<!--#container {
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: none;
+	}
+-->
+.three-column {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	padding: 5px;
+	margin: 40px;
+	border: 20px;
+	grid-gap: 20px;
+	text-align: center;
+}
+.link1 {
+	background-image: url("writing.jpg"); 
+	background-size: cover;
+	padding: 85px;
+}
+.link2 {
+	background-size: cover;
+	padding: 85px;
+	background-image: url("happiness.jpg")
+}
+.link3 {
+	background-image: url("wanderer.jpg");
+	background-size: cover;
+	padding: 85px;
+}
+.link4 {
+	padding: 85px;
+	background-image: url("mundane.jpg");
+	background-size: cover; 
+}
+.link5 {
+	background-size: cover; 
+	padding: 85px;
+	background-image: url("hh.jpg"); 
+}
+.link6 {
+	padding: 85px;
+	background-size: cover;
+	background-image: url("death.jpg");
+}
+.link7 {
+	background-size: cover; 
+	padding: 85px;
+	background-image: url("aloss.jpg");
+}
+.link8 { 
+	padding: 85px;
+	background-image: url("thehewhois.jpg");
+	background-size: cover; 
+}
+.link9 { 
+	padding: 85px;
+	background-image: url("goodness.jpg");
+	background-size: cover; 
+}
+.smaller-image {
+	border-radius: 90%;
+	height: 300px;
+	width: 300px;
+	margin: 150px;
+	padding: 20px; 
+}
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 8px; /* Some padding */ 
+  border: 1px solid #4a5669; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=submit] {
+  background-color: #4a5669;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  top:500px;
+  border-radius: 50%;
+ 
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

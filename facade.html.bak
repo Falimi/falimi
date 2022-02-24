@@ -1,0 +1,47 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<header>
+
+</header>
+<main>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+	</div>
+</nav>
+<h2>Facades</h2>
+<h4>
+Different facades you carry<br>
+
+One isn’t better than the other, it is only the proof of your humanistic nature<br>
+
+One you are proud of, one you are not<br>
+
+One you want to get rid of, one you want it to brim forever<br>
+
+The one you hate is you, the one you love is also you<br>
+
+The one you boast about is you, the one you conceal is also you<br>
+
+You despise yourself too much sometimes and praise yourself too much at times<br>
+
+Are you too humble or too proud?<br>
+</h4>
+</main>
+<footer>
+
+</footer>
+</html>

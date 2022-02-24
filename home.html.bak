@@ -1,0 +1,81 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<header>
+
+</header>
+<main>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a></li>
+  <li><a href="">Photos</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<h2>Home</h2>
+<h4>
+A question I asked myself,<br>
+
+Where is home?<br>
+
+A place where I was born or a place where I lived?<br>
+
+Is it a place I long for?<br>
+
+Or is it someone I love?<br>
+
+Home, where are you?<br>
+
+Do you exist or are you just a metaphor, a word?<br>
+
+I miss home,<br>
+
+But I do not know where home is<br>
+
+I miss the smell of home,<br>
+
+But I do not remember what home smells like,<br>
+
+Are you my mother or my father?<br>
+
+Are you my sense of comfort?<br>
+
+Today I’ve become homeless,<br>
+
+Thinking whether I’ll ever find you,<br>
+
+I know what it feels like to be home,<br>
+
+But I do not know what or where home is,<br>
+
+A question I asked myself again,<br>
+
+Will it pass? Will I find my home?<br>
+
+I’ve wandered too long now,<br>
+
+Too long to remember home,<br>
+
+Where is home after all?<br>
+
+Home is nowhere but everywhere,<br>
+
+If you’re lucky you’ll have one<br>
+
+But if not, you’ll wander the rest of your days looking for one.<br>
+</h4>
+</main>
+<footer>
+
+</footer>
+</html>

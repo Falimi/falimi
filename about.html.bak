@@ -1,0 +1,32 @@
+<!DOCTYPE Html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<main>
+<img src="me.jpeg" class="smaller-image">
+<h5>
+Farida Alimi is a writer and poet from Afghanistan.<br>
+She has a private blog where she publishes her work.<br>
+She recently published a short story on The Archipelago.<br>
+Alimi was also part of the student journal at LCC for two semesters called Calliope.<br>
+Alimi has found solace in the beauty of words.<br>
+</h5>
+</main>
+
+
+<footer>
+
+</footer>
+</html>

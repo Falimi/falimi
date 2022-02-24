@@ -1,0 +1,67 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<header>
+
+</header>
+<main>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a></li>
+  <li><a href="">Photos</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<h2>Happiness</h2>
+<h4>
+Things make me happy, people make me smile but does it also mean I am happy as a person?<br>
+
+There is an emptiness, a void that is lurking within me at times when the corners of my mouth are still,<br>
+
+when it feels there is no other human on this earth.<br>
+
+It’s the blank spaces within each smile.<br>
+
+Within each laughter.<br>
+
+Within each facade.<br>
+
+Within each interaction.<br>
+
+I don’t know what it is sometimes. Or do I?<br>
+
+Perhaps this is what happiness feels like.<br>
+
+Happiness filled with emptiness.<br>
+
+I have been told about the importance of joy and contentment all my life.<br>
+
+I must find it.<br>
+
+It is paramount, I have been told.<br>
+
+Maybe a thing as complete contentment doesn’t exist at all.<br>
+
+Or maybe it does but not what you and I think.<br>
+
+What I have been told.<br>
+
+Maybe within happiness, there is melancholy, and despair, and laughter, and a hollowness, and weariness.<br>
+
+To be happy would mean to be sad as well. To be sad would mean to pretend as well.<br>
+</h4>
+</main>
+<footer>
+
+</footer>
+</html>

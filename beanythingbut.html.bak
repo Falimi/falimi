@@ -1,0 +1,61 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<header>
+
+</header>
+<main>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a></li>
+  <li><a href="">Photos</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<h2>Be anything but...</h2>
+<h4>
+Has life given you anything more than pain?<br>
+maybe it has only tied you to several chains<br>
+ones you have not chosen<br>
+all your wishes have gone to vain<br>
+but dear don’t you complain<br>
+because you are still on the train<br>
+live in the illusion of happiness now and again<br>
+the world’s inhumane but so are you<br>
+one lesson friend, be anything but mundane<br>
+</h4>
+</main>
+<footer>
+
+</footer>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

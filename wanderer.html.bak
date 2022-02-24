@@ -1,0 +1,46 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel=stylesheet href="style.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:wght@100;300&display=swap" rel="stylesheet">
+</head>
+<header>
+
+</header>
+<main>
+<nav>
+	<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="writing.html">Writing</a>
+  </li><li><a href="">Photos</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+	</ul>
+	</div>
+</nav>
+<h2>Wanderer</h2>
+<h4>
+Wandering her ways through an unfamiliar memory<br>
+A memory too vivid yet blur at times<br>
+An echo from miles and miles away<br>
+Calling her name for something blue<br>
+How does she run with a body so numb and a mind so lost?<br>
+It was you<br>
+a familiar face,<br>
+Do I know you? she asked<br>
+She did<br>
+She couldn’t run<br>
+She didn’t know to<br>
+You wonder what she saw<br>
+But it was one of you she saw<br>
+</h4>
+</main>
+<footer>
+
+</footer>
+</html>
