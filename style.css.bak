@@ -4,8 +4,8 @@ background-size: cover;
 padding: 250px 0px;
 }
 footer {
+  width: 100%; 
   text-align: center;
-  padding: 10px 80px;
   background-color: #333;
   color: #333;
 }
@@ -32,6 +32,7 @@ li a:hover {
 }
 body {
 background-color: #2a3342;
+margin-bottom: 0;
 font-family: 'Gideon Roman', cursive;
 font-family: 'Montserrat', sans-serif;
 }
@@ -47,6 +48,12 @@ h1 {
 	position: relative;
 	top: 50px;
 	}
+.contact-h1 {
+	font-size: 20px; 
+	text-align: center;
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+}
 h2 {
 	text-align: center;
 	position: relative;
@@ -79,7 +86,7 @@ h3 {
 	font-family: 'Gideon Roman', cursive;
 	font-family: 'Montserrat', sans-serif;
 	}
-p {
+.home-p {
 	color: black;
 	text-align: center; 
 	font-size: 20px;
@@ -88,6 +95,14 @@ p {
 	position: relative; 
     top: 60px;
 } 
+footer p {
+	color: black;
+	text-align: center; 
+	font-size: 20px;
+	font-family: 'Gideon Roman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 0;
+}
 	}
 <!--#container {
 	width: 1100px;
@@ -159,7 +174,7 @@ p {
 }
 input[type=text], select, textarea {
   width: 100%; /* Full width */
-  padding: 8px; /* Some padding */ 
+  padding: 14px; /* Some padding */ 
   border: 1px solid #4a5669; /* Gray border */
   border-radius: 4px; /* Rounded borders */
   box-sizing: border-box; /* Make sure that padding and width stays in place */
@@ -188,11 +203,7 @@ input[type=submit]:hover {
   font-size: 30px;
   width: 50px;
   text-align: center;
-  text-decoration: none;
-  position: relative;
-  top:500px;
-  border-radius: 50%;
- 
+  text-decoration: none; 
 }
 .fa:hover {
   opacity: 0.7;
